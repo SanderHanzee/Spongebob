@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CommandWord
+comment0.text=\r\n\ This\ class\ is\ part\ of\ "Spongebob\ adventure"\ application.\ \r\n\ "Spongebob\ adventure"\ is\ a\ very\ simple,\ text\ based\ adventure\ game.\ \ \r\n\ \r\n\ This\ makes\ the\ game\ class\ more\ clear\ with\ cases.\r\n\ Here\ you\ put\ in\ which\ command\ words\ there\ are\ to\ get\ a\ better\ view\ on\ it\r\n\ \r\n\ @author\ \ Sander\ Brands\ and\ Kevin\ de\ Graaf\r\n\ @version\ 2020.01.26\r\n
+comment1.params=commandString
+comment1.target=CommandWord(java.lang.String)
+comment1.text=\r\n\ Initialise\ with\ the\ corresponding\ command\ string.\r\n\ @param\ commandString\ The\ command\ string.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ @return\ The\ command\ word\ as\ a\ string.\r\n
+numComments=3
